@@ -1,5 +1,7 @@
 # WanderNotes
 
+Checkout the live version here:-
+
 This project was bootstrapped with Vite
 
 ## Available Scripts
